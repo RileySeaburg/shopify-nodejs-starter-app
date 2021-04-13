@@ -25,11 +25,11 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
+<!-- - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](../CONTRIBUTING.md) -->
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 - [License](#license)
