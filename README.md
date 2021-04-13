@@ -97,6 +97,7 @@ Add additional notes about how to deploy this on a live system. -->
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Koa](https://koajs.org) - Server Framework
 - [ReactJS](https://reactjs.org/) - JavaScript library for building component-based user interfaces.
 - [NextJS](https://nextjs.org/) - Framework for quickly setting up React-based apps.
 - [GraphQL](https://graphql.org/) - A query language for interacting with an API.
