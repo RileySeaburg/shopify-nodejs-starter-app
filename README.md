@@ -115,3 +115,5 @@ See also the list of [contributors](https://github.com/RileySeaburg/shopify-node
 
 
 ## License <a name = "license"></a>
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
