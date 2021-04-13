@@ -48,7 +48,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Shopify Developer Account](https://partners.shopify.com/signup)
 
 
-### Installing
+<!-- ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 
@@ -92,7 +92,7 @@ Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+Add additional notes about how to deploy this on a live system. -->
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
