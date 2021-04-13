@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
+</p> -->
 
 <h3 align="center">Sample Shopify Application</h3>
 
@@ -9,8 +9,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/rileyseaburg/The-Documentation-Compendium.svg)](https://github.com/rileyseaburg/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/rileyseaburg/The-Documentation-Compendium.svg)](https://github.com/rileyseaburg/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/RileySeaburg/shopify-nodejs-starter-app.svg)](https://github.com/RileySeaburg/shopify-nodejs-starter-app/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RileySeaburg/shopify-nodejs-starter-app.svg)](https://github.com/RileySeaburg/shopify-nodejs-starter-app/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -107,7 +107,7 @@ Add additional notes about how to deploy this on a live system.
 
 - [@rileyseaburg](https://github.com/rileyseaburg) - Repo Author & Maintainer
 
-See also the list of [contributors](https://github.com/rileyseaburg/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/RileySeaburg/shopify-nodejs-starter-app/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
